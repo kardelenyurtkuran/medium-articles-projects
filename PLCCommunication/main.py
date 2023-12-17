@@ -5,7 +5,7 @@ VACUUM_VALUE_OK = 0
 
 _Plc = snap7.client.Client()
 
-def connectPlc():
+def connectPlc(): #Connecting to Siemens PLC
     try:
         try:
             _Plc.disconnect()
@@ -15,16 +15,16 @@ def connectPlc():
     except:
         pass
 
-def readValue(variable):
+def readValue(variable): #Reading data from Siemens PLC
     if (variable == PRESSURE_VALUE_OK):
         return (_Plc.db_read(200, 2, 1)[0])
     elif (variable == VACUUM_VALUE_OK):
         return (_Plc.db_read(200, 2, 1)[0])
 
-def writeValue():
+def writeValue(): #Writing data to Siemens PLC
     _Plc.db_write(100, 288, b'\x00\x01')
 
-def checkConnection():
+def checkConnection(): #Connection control with Siemens PLC
     if (_Plc.get_connected()):
         try:
             print("Connection Successful")
