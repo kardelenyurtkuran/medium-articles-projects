@@ -26,9 +26,9 @@ print("Hello, World!")
 |----------|----------|
 | İçerik 1 | İçerik 2 |
 
-![Markdown Resim](https://www.google.com/url?sa=i&url=https%3A%2F%2Fkirkstrobeck.github.io%2Fwhatismarkdown.com%2F&psig=AOvVaw14Ye3Thb-XW0g_uwRJlw-C&ust=1703713016658000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPjC_tqHroMDFQAAAAAdAAAAABAZ)
+![Markdown Resim](https://example.com/path/to/your/image.jpg)
+![Python GIF](https://example.com/path/to/your/python.gif)
 
-![Python GIF](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thoughtwin.com%2Fpython&psig=AOvVaw1LpmR6XmTk99IzQX7T_9fH&ust=1703712946796000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODgrbuHroMDFQAAAAAdAAAAABAD)
 
 
 
