@@ -10,7 +10,6 @@
 *İtalic Yazı*
 
 ~~Üstü Çizili Yazı~~
-
 [kardelenyurtkuran](https://medium.com/@kardelenyurtkuran)
 1. Sıralı Liste Madde 1
 2. Sıralı Liste Madde 2
