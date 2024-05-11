@@ -10,6 +10,8 @@ This repository contains the codes of all articles made for Medium.
 *3. [README.md Files and Markdown Usage for Programmers](https://medium.com/@kardelenyurtkuran/readme-md-files-and-markdown-usage-for-programmers-16edf054f8ce)*
 
 *4. [Finding Empty IP Addresses on a Local Network: Network Scanning with Python](https://medium.com/@kardelenyurtkuran/finding-empty-ip-addresses-on-a-local-network-network-scanning-with-python-fb4efd5ddda0)*
+
+*5. [Python with CSRF: Threats, Measures, and Detection Strategies](https://medium.com/@kardelenyurtkuran/python-with-csrf-threats-measures-and-detection-strategies-8eb77abf9270)*
   
   
 
