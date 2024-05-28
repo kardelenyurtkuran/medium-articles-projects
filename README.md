@@ -12,6 +12,8 @@ This repository contains the codes of all articles made for Medium.
 *4. [Finding Empty IP Addresses on a Local Network: Network Scanning with Python](https://medium.com/@kardelenyurtkuran/finding-empty-ip-addresses-on-a-local-network-network-scanning-with-python-fb4efd5ddda0)*
 
 *5. [Python with CSRF: Threats, Measures, and Detection Strategies](https://medium.com/@kardelenyurtkuran/python-with-csrf-threats-measures-and-detection-strategies-8eb77abf9270)*
+
+*6. [The Hidden Costs of Artificial Intelligence](https://medium.com/@kardelenyurtkuran/the-hidden-costs-of-artificial-intelligence-ccd7df80a58e)*
   
   
 
