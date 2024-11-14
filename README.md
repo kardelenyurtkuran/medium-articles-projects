@@ -14,6 +14,8 @@ This repository contains the codes of all articles made for Medium.
 *5. [Python with CSRF: Threats, Measures, and Detection Strategies](https://medium.com/@kardelenyurtkuran/python-with-csrf-threats-measures-and-detection-strategies-8eb77abf9270)*
 
 *6. [The Hidden Costs of Artificial Intelligence](https://medium.com/@kardelenyurtkuran/the-hidden-costs-of-artificial-intelligence-ccd7df80a58e)*
+
+*7. [Intelligence or Imitation? The Turing Test and Artificial Intelligence Debates](https://medium.com/@kardelenyurtkuran/intelligence-or-imitation-the-turing-test-and-artificial-intelligence-debates-86f049cfb9e6)*
   
   
 
