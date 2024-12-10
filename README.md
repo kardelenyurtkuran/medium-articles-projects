@@ -16,6 +16,10 @@ This repository contains the codes of all articles made for Medium.
 *6. [The Hidden Costs of Artificial Intelligence](https://medium.com/@kardelenyurtkuran/the-hidden-costs-of-artificial-intelligence-ccd7df80a58e)*
 
 *7. [Intelligence or Imitation? The Turing Test and Artificial Intelligence Debates](https://medium.com/@kardelenyurtkuran/intelligence-or-imitation-the-turing-test-and-artificial-intelligence-debates-86f049cfb9e6)*
+
+*8. [Prediction with Distances: How Does KNN Work?](https://medium.com/@kardelenyurtkuran/prediction-with-distances-how-does-knn-work-9ddd0ca97b5b)*
+
+
   
   
 
