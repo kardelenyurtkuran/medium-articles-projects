@@ -19,6 +19,8 @@ This repository contains the codes of all articles made for Medium.
 
 *8. [Prediction with Distances: How Does KNN Work?](https://medium.com/@kardelenyurtkuran/prediction-with-distances-how-does-knn-work-9ddd0ca97b5b)*
 
+*9. [Performance Metrics for Classification Problems](https://medium.com/@kardelenyurtkuran/performance-metrics-for-classification-problems-cd15c1455e3e)*
+
 
   
   
